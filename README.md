@@ -5,18 +5,18 @@
 项目文件架构：<br/>
 ### checkpoints/<br/>
 ### data/<br/>
-	__init__.py<br/>
-	dataset.py<br/>
+	__init__.py
+	dataset.py
 ### models/<br/>
-	__init__.py<br/>
-	DarkNet.py<br/>
-	ResNet34.py<br/>
+	__init__.py
+	DarkNet.py
+	ResNet34.py
 	...<br/>
 ### utils/<br/>
-	__init__.py<br/>
-	visualize.py<br/>
-	dataname_change.py<br/>
-	...<br/>
+	__init__.py
+	visualize.py
+	dataname_change.py
+	...
 ### config.py<br/>
 ### main.py<br/>
 ### class_demo.py<br/>
