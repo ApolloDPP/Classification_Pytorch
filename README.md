@@ -4,24 +4,24 @@
 
 项目文件架构：
 checkpoints/
-data/
-	__init__.py
-	dataset.py
-models/
-	__init__.py
-	DarkNet.py
-	ResNet34.py
-	...
-utils/
-	__init__.py
-	visualize.py
-	dataname_change.py
-	...
-config.py
-main.py
-class_demo.py
-requirements.txt
-README.md
+data/<br/>
+	__init__.py<br/>
+	dataset.py<br/>
+models/<br/>
+	__init__.py<br/>
+	DarkNet.py<br/>
+	ResNet34.py<br/>
+	...<br/>
+utils/<br/>
+	__init__.py<br/>
+	visualize.py<br/>
+	dataname_change.py<br/>
+	...<br/>
+config.py<br/>
+main.py<br/>
+class_demo.py<br/>
+requirements.txt<br/>
+README.md<br/>
 
 
 
@@ -36,6 +36,6 @@ README.md
 - README.md:提供工程的必要说明
 
 
-##########################
+##########################<br/>
 本项目的功能是将胎儿超声的检测的七个部位进行分类：头部、颜面部、腹部、四肢、心脏、脊柱、胸部
 
