@@ -3,25 +3,25 @@
 主要目的是培养工程代码实现的可读性
 
 项目文件架构：<br/>
-checkpoints/
-##data/<br/>
+### checkpoints/<br/>
+### data/<br/>
 	__init__.py<br/>
 	dataset.py<br/>
-##models/<br/>
+### models/<br/>
 	__init__.py<br/>
 	DarkNet.py<br/>
 	ResNet34.py<br/>
 	...<br/>
-##utils/<br/>
+### utils/<br/>
 	__init__.py<br/>
 	visualize.py<br/>
 	dataname_change.py<br/>
 	...<br/>
-##config.py<br/>
-##main.py<br/>
-##class_demo.py<br/>
-##requirements.txt<br/>
-##README.md<br/>
+### config.py<br/>
+### main.py<br/>
+### class_demo.py<br/>
+### requirements.txt<br/>
+### README.md<br/>
 
 
 
