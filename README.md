@@ -1,6 +1,5 @@
 # Classification_Pytorch
 
-主要目的是培养工程代码实现的可读性
 
 项目文件架构：<br/>
 ### checkpoints/<br/>
